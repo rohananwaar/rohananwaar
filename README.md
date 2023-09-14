@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Anwaar
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently React
 - 📫 How to reach me ...
 -  rohananwaar@gmail.com 
 
